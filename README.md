@@ -1,5 +1,20 @@
-# EPS to PNG Converter
+<div align="center">
+    <img src="preview.png" alt="Preview" width="800">
+</div>
 
+<div align="center">
+    
+[![Python Version](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/downloads/)
+[![Pillow Version](https://img.shields.io/badge/Pillow-8.4.0-orange)](https://pypi.org/project/Pillow/)
+[![License](https://img.shields.io/badge/License-GNU%203.0-blue.svg)](LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/OCEANOFANYTHINGOFFICIAL/eps-to-png-converter)](https://github.com/OCEANOFANYTHINGOFFICIAL/eps-to-png-converter/issues)
+[![GitHub stars](https://img.shields.io/github/stars/OCEANOFANYTHINGOFFICIAL/eps-to-png-converter)](https://github.com/OCEANOFANYTHINGOFFICIAL/eps-to-png-converter/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/OCEANOFANYTHINGOFFICIAL/eps-to-png-converter)](https://github.com/OCEANOFANYTHINGOFFICIAL/eps-to-png-converter/network)
+[![GitHub license](https://img.shields.io/github/license/OCEANOFANYTHINGOFFICIAL/eps-to-png-converter)](https://github.com/OCEANOFANYTHINGOFFICIAL/eps-to-png-converter/blob/main/LICENSE)
+
+</div>
+
+# EPS to PNG Converter
 This project converts EPS files to PNG format with transparent backgrounds using Python. It processes all EPS files in the current working directory and saves the converted PNG files in a separate `output` directory.
 
 ## Requirements
